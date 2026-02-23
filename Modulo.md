@@ -24,7 +24,7 @@ Add your name and email!
 ## Factorial Calculation (Step 1)
 Find the **factorial** function. Given a number, find the factorial of it. For example 4! = 4 x 3 x 2 x 1 = 24
 
-You should be using a while loop to do this. Since this is your first lab using a while loop, it has already been done for you. All you need to do is add one line of code in the while loop.
+You should use a while loop to do this. Since this is your first lab using a while loop, it has already been done for you. All you need to do is add one line of code in the while loop.
 
 Before writing any code, run the program to see what it does. Make sure to have input in the **Predefine program input (optional)** box or else you will get an error.
 
